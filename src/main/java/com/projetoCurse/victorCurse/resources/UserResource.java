@@ -1,4 +1,4 @@
-package com.projetoCurse.victorCurse.entities.resources;
+package com.projetoCurse.victorCurse.resources;
 
 
 import com.projetoCurse.victorCurse.entities.User;
